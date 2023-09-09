@@ -36,8 +36,8 @@ Mobile
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-solution-vstOworC3k)
+- Live Site URL: (https://mxriannar.github.io/qr-code-component/)
 
 ## My process
 
